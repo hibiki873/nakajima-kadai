@@ -1,0 +1,25 @@
+
+#menu ul{
+width:100%;
+text-align:center;
+display:table;
+position:fixed;
+top:0%;
+}
+
+#menu ul li{
+width:15%;
+background-color:#BBBBBB;
+color:#FFF;
+height:100px;
+display:table-cell;
+vertical-align:middle;
+}
+.image{
+padding:0% 10%;
+margin-top:100px;
+}
+
+.image_1 img{
+width:100%;
+}

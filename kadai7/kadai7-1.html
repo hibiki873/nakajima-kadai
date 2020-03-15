@@ -1,0 +1,424 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="respon.css">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/dda8a2430a.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://
+ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+
+
+
+<script>
+$(function(){
+    $(window).scroll(function (){
+        $('.top h2').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 100){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.top p').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 100){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.message-L').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 200){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.message-R p').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 200){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.about-L h2').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 250){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.about-L p').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 250){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.about2').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 260){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.about5').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 260){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.I-text').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 260){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.ossan').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 270){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+    $(window).scroll(function (){
+        $('.I-text p').each(function(){
+            var targetElement = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > targetElement - windowHeight + 290){
+                $(this).css('opacity','1');
+                $(this).css('transform','translateY(0)');
+            }
+        });
+    });
+});
+
+$(function(){
+ $(".about5").on("click",function(){
+  $(".about5").css("background-color","#f6ab00");
+});
+});
+
+$(function(){
+ $(".ossan1 h3").on("click",function(){
+  $(".ossan1 h3").css("background-color","#f6ab00");
+});
+
+$('.slide').slick({
+  infinite: true,
+  slidesToShow: 4,
+autoplay: true,
+  autoplaySpeed: 2000,
+  slidesToScroll: 3
+});
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+
+<div class="wrapper">
+
+  <div class="menu">
+    <img src="photo1/logo.png">
+
+    <ul>
+      <li>トップページ<br>TOP</li>
+      <li>事業と魅力<br>ABOUT US</li>
+      <li>インタビュー01<br>INTERVIEW01</li>
+      <li>インタビュー02<br>INTERVIEW02</li>
+      <li>募集要項<br>RECRUIT</li>
+      <li>お問い合わせ<br>CONTACT</li>
+    </ul>
+
+  </div>
+
+
+
+
+<div class="other-than">
+
+  <div class="top">
+    <h2>IT FROM THE CORE</h2>
+    <p> 変えるなら芯から変える、自分から変わる</p>
+  </div>
+
+
+
+  <div class="message">
+    <div class="cf">
+      <div class="message-L">
+        <img src="photo1/message.jpg">
+      </div>
+
+      <div class="message-R">
+        <h2>MESSAGE</h2>
+        
+        <div class="MR1">
+          <p>メッセージ</p>
+        </div>
+
+        <p>アイエスエフネットは、人財育成会社として多くのITインフラエンジニアを育成し、活躍の場を作ってきました。クラウドなど、さまざまな技術で変わり続けるIT市場で、エンジニアの成長、キャリアアップにあわせてクラウド検証環境やプロジェクト講習など、更なる成長のための環境を拡げています。変化を続けるITの世界で、新しい技術、新しい課題を解決することを喜びと感じ、チャレンジすることを恐れないエンジニアの皆さまが自分自身の成長を会社全体の成長に繋げ、次世代のリーダーとして活躍することを期待しております。</p>
+  
+        <div class="MR2">
+          <p>執行役員 浜田将稔</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="about">
+    <div class="cf">
+      <div class="about-L">
+        <h2>ABOUT US</h2>
+        <p>事業と魅力</p>
+      </div>
+
+      <div class="about-R">
+        <img src="photo1/about.jpeg">
+      </div>
+    </div>
+
+    <div class="about2">
+      <p>アイエスエフネットは、2000年に設立したITインフラ企業。ネットワークやサーバーだけではなく、仮想化やセキュリティ、クラウドなど幅広くソリューションを展開。設立当時から人財育成に力を入れ、常に時代のニーズに合わせたスキル開発を行ってきました。ITインフラがより必要とされている現在、多くのエンジニアとステークホールダーと共に、成長し続けています。</p>
+    </div>
+  </div>
+
+    <div class="about5">
+      <div class="cf">
+        <div class="about3">
+          <h2>READ MORE</h2>
+        </div>
+        <div class="about4">
+          <i class="fas fa-caret-right"></i>
+        </div>
+      </div>
+    </div>
+
+
+
+
+  <div class="interview">
+    <div class="I-text">
+      <h2>INTERVIEW</h2>
+      <p>社員インタビュー</p>
+    </div>
+
+    
+    <div class="ossan">
+      <div class="cf">
+        <div class="ossan1">
+          <img src="photo1/megane.jpg">
+          <p>2016年入社　コンサルティング本部 AWSクラウド推進部 第2グループ</p>
+          <p>NAME : アリ・イスラム</p>
+          <h2>開発エンジニアからクラウドエンジニアへ転身</h2>
+          <h3>READ MORE</h3>
+        </div>
+
+
+        <div class="ossan1">
+          <img src="photo1/megane2.jpg">
+          <p>2004年入社　コンサルティング本部 ソリューション推進部</p>
+          <p>NAME : 横地友孝</p>
+          <h2>新技術を検証し、ソリューションにつなげる</h2>
+          <h3>READ MORE</h3>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="I-text">
+      <h2>RECRUIT</h2>
+      <p>募集要項とエントリー</p>
+    </div>
+
+    <div class="I-text2">
+      <p>エンジニアとして更なる成長を目指す方、ぜひ私たちと一緒にチャレンジしませんか？一緒に成長してくれるエンジニアを募集しています！</p>
+    <div class="about5">
+      <div class="cf">
+        <div class="about3">
+          <h2>READ MORE</h2>
+        </div>
+        <div class="about4">
+          <i class="fas fa-caret-right"></i>
+        </div>
+      </div>
+    </div>
+    </div>
+
+  </div>
+
+
+
+
+  <div class="last">
+      <img src="photo2/logo.png">
+
+   <div class="cf">
+    <div class="last-T">
+      <div class="T-1">
+        <p> COMPANY</p>
+        <p>株式会社アイエスエフネット</p>
+        <p>〒107-0052　東京都港区赤坂7-1-16　オーク赤坂ビル 3階</p>
+        <p>TEL：03-5786-2300（代表）　FAX：03-5786-2309</p>
+      </div>
+    </div>
+
+
+    <div class="last-T">
+      <div class="T-2">
+        <p>SITE MAP</p>
+
+       <div class="cf">
+          <ul>
+            <li>TOP</li> 
+            <li>ABOUT US</li> 
+            <li>INTERVIEW01</li>
+            <li>INTERVIEW02</li>
+            <li>RECRUIT</li>
+            <li> CONTACT</li>
+          </ul>
+　　   </div>
+
+      </div>
+    </div>
+
+
+    <div class="last-T">
+      <div class="T-1">
+        <p>LINK</p>
+        <p>コーポレートサイト</p>
+        <p>インタビューブログ</p>
+      </div>
+    </div>
+  
+   </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  <div class="slide">
+    <img src="photo1/megane.jpg">
+    <img src="photo1/megane2.jpg">
+    <img src="photo1/megane.jpg">
+    <img src="photo1/megane2.jpg">
+    <img src="photo1/megane.jpg">
+    <img src="photo1/megane2.jpg">
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,224 @@
+@media(max-width: 590px){
+
+.wrapper{
+min-width:0px;
+}
+
+
+.menu ul{
+display: none;
+}
+
+.menu{
+background-color: #eaeaea;
+    width: 20%;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    padding-bottom: 0%;
+}
+
+.other-than{
+margin-left: 0%;
+}
+
+.top{
+background-image: url(photo1/top.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 2000px;
+    text-align: center;
+}
+
+.top h2{
+padding-top: 80%;
+    font-size: 20VW;
+    color: #FFF;
+}
+
+.top p{
+font-size: 9VW;
+    padding: 2%;
+    color: #FFF;
+}
+
+.message-L{
+width: auto;
+    float: none;
+}
+
+.message-R h2{
+font-family: 'Roboto', sans-serif;
+    font-size: 30VW;
+    letter-spacing: 0.1em;
+    position: relative;
+    text-align: center;
+}
+
+.MR1{
+padding: 2% 0%;
+    text-align: center;
+    font-size: 10VW;
+}
+
+.message-R p{
+letter-spacing: 0.05em;
+    line-height: 1.5;
+    font-size: 10VW;
+}
+
+.about-L{
+float: none;
+    width: auto;
+    background-color: #014099;
+    color: #FFF;
+}
+
+.about-L h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13VW;
+    letter-spacing: 0.1em;
+    padding: 5%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.about-L p{
+padding: 3% 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 8VW;
+}
+
+.about{
+padding-top: 3%;
+    padding: 0% 0%;
+    margin-top: 10%;
+    background-color: #FFF;
+}
+
+.about-R{
+float: none;
+    width: auto;
+}
+
+.about2{
+padding: 7% 2%;
+}
+
+.about2 p{
+font-size: 12VW;
+}
+
+.about4{
+float: left;
+    margin-left: 25%;
+    font-size: 11VW;
+}
+
+.about3 {
+    float: left;
+    font-size: 10VW;
+}
+
+.about5 {
+    background-color: #014099;
+    padding: 5% 10%;
+    margin: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-left: 10%;
+    color: #FFF;
+}
+
+.I-text h2 {
+    font-size: 32VW;
+    letter-spacing: 0.1em;
+    padding: 2%;
+margin-top: 10%;
+}
+
+.I-text p {
+    font-size: 15VW;
+}
+
+.ossan1 {
+    float: none;
+    width: auto;
+    padding: 0%;
+}
+
+.ossan1 p {
+    color: #014099;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: left;
+    font-size: 12VW;
+    margin-bottom: 5px;
+}
+
+.ossan1 h2 {
+    padding: 1% 0%;
+    font-size: 11VW;
+}
+
+.ossan1 h3 {
+    background-color: #014099;
+    color: #FFF;
+    text-align: center;
+    padding: 3%;
+    margin: 20%;
+    font-size: 11VW;
+}
+
+.I-text2 p {
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+    color: #222;
+    padding: 6% 12%;
+    font-size: 12VW;
+}
+
+.last img {
+    width: auto;
+    padding: 2%;
+    margin-left: 33%;
+}
+
+.last-T {
+    float: none;
+    width: auto;
+}
+
+.T-1 {
+    padding: 1% 3%;
+    font-size: 10VW;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+}
+
+.T-2{
+    font-size: 12VW;
+margin-top: 7%;
+}
+
+.T-2 ul li {
+    float: left;
+    padding: 3%;
+    font-size: 10VW;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

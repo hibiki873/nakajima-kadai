@@ -1,0 +1,77 @@
+@media(max-width: 590px){
+
+
+.whats {
+    bottom: -18%;
+    left: 10%;
+    z-index: 2;
+    position: absolute;
+    display: none;
+}
+
+.block1-left {
+    width: 100%;
+    padding: 5% 5%;
+    float: nonet;
+}
+
+.block1-middle {
+    float: none;
+    width: 100%;
+    padding: 1% 0%;
+}
+
+.block1-right {
+    float: none;
+    width: 100%;
+    padding: 3% 3%;
+    border-left: 1px solid #BBB;
+}
+
+.block1-left h3 {
+    font-size: 8vw;
+    text-align: center;
+}
+
+.block1-middle-susi p {
+    float: left;
+    width: 65%;
+    font-size: 3vw;
+    margin-left: 5%;
+}
+
+.block1-middle-susi span {
+    float: left;
+    color: red;
+    width: 30%;
+    font-size: 3vw;
+}
+
+.concept {
+    width: 100%;
+    float: none;
+}
+
+.aboutus {
+    width: 100%;
+    float: none;
+    margin-left: 0%;
+}
+
+.block3-1 {
+    background-color: #fff;
+    padding: 2% 2%;
+    width: 100%;
+    float: none;
+    margin-top: 5%;
+    margin-left: 1.5%;
+    margin-top: 1.5%;
+}
+
+.block3-content {
+    padding: 0% 0%;
+    width: 100%;
+}
+}
+
+
