@@ -1,0 +1,577 @@
+.wrapper{
+min-width:1200px;
+}
+
+.mein-page{
+background-color:#DDD;
+padding-top: 40%;}
+
+.cf{
+clear:both;
+}
+
+ 
+
+
+.move{
+position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+}
+
+.top-right{
+margin-left: 80%;
+}
+
+.mail{
+float:left;
+color:#FFF;
+background-color:#000;
+padding:5%;
+margin-top:7%;
+}
+
+.mail2{
+float:left;
+padding:2%;
+margin-top:12%;
+}
+
+
+
+
+.menu{
+padding-left: 3%;
+position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+}
+
+.menu ul li{
+padding: 1% 2%;
+font-family: 'Lato',;
+font-weight: 900;
+font-size: 1VW;
+}
+
+
+
+
+.title{
+padding: 4% 10%;
+display:none;
+}
+
+
+
+
+.news{
+background-color:#FFF;
+margin: 8%;
+display:none;
+}
+
+.text{
+float:left;
+font-family: 'Lato',;
+font-weight: 900;
+letter-spacing: 1px;
+padding: 4% 8%;
+font-size: 1.5VW;
+}
+
+.text2{
+float:left;
+width: 57%;
+padding: 2%;
+}
+
+.text2 p{
+padding: 1%;
+}
+
+.sabu{
+color: #F00;
+padding-right: 3%;
+}
+
+.text3{
+float:left;
+font-family: 'Lato',;
+}
+
+.text4{
+float:left;
+border: solid 3px #000;
+border-radius: 10px;
+margin: 3%;
+padding: 1% 3%;
+}
+
+
+
+
+.ookiku{
+margin:0% 8%;
+}
+
+
+
+
+.concept-title{
+float:left;
+letter-spacing: 1px;
+font-size: 2VW;
+margin-right: 53%;
+padding-bottom: 1%;
+display:none;
+}
+
+.about-title{
+float:left;
+letter-spacing: 1px;
+font-size: 2VW;
+padding-bottom: 1%;
+display:none;
+}
+
+.concept{
+float:left;
+background-image:url(photo1/a.png);
+height: 357px;
+padding: 100px 170px;
+text-align: center;
+margin-right: 5%;
+color: #FFF;
+display:none;
+}
+
+.about-us{
+float:left;
+background-image:url(photo1/i.png);
+background-size: cover;
+height: 357px;
+padding: 70px 60px;
+text-align: center;
+color: #FFF;
+display:none;
+}
+
+.concept h3{
+font-size: 1.5VW;
+    padding-bottom: 5%;
+    letter-spacing: .1em;
+    font-weight: normal;
+    line-height: 180%;
+} 
+
+.concept p{
+letter-spacing: .1em;
+    line-height: 180%;
+    padding-bottom: 20px;
+}
+
+.about-us h3{
+font-size: 1.5VW;
+    padding-bottom: 5%;
+    letter-spacing: .1em;
+    font-weight: normal;
+    line-height: 180%;
+} 
+
+.about-us p{
+letter-spacing: .1em;
+line-height: 180%;
+padding-bottom: 20px;
+}
+
+
+
+
+.group{
+padding:1% 12%;
+display:none;
+}
+
+.group-title{
+float:left;
+letter-spacing: 1px;
+font-size: 2VW;
+padding-bottom: 1%;
+margin-top: 10%;
+}
+
+.block1{
+float:left;
+width:31%;
+background-color: #FFF;
+margin: 1%;
+text-align: center;
+}
+
+.block1 h2{
+padding-top: 25%;
+    letter-spacing: .1em;
+    font-size: 1VW;
+    margin-bottom: 0.5%;
+}
+
+.block1 h3{
+letter-spacing: .1em;
+    font-size: 1.2VW;
+    margin-bottom: 5%;
+}
+
+.block1 p{
+padding: 10% 15%;
+    letter-spacing: .1em;
+    line-height: 180%;
+    font-size: 0.5VW;
+}
+
+.block1 img{
+padding-bottom: 10%;
+}
+
+
+
+
+.store{
+margin-top:45%;
+}
+
+
+
+
+.footer{
+margin-top: 15%;
+    background-color: #FFF;
+    padding: 3%;
+}
+
+.footer-L{
+float:left;
+width: 55%;
+}
+
+.footer-L ul{
+margin-top: 10%;
+}
+
+.footer-L ul li{
+float:left;
+margin-right: 5%;
+    font-weight: bold;
+}
+
+.footer-R{
+float:left;
+width: 45%;
+    font-size: 0.5VW;
+}
+
+.footer-R p{
+font-weight: bold;
+    padding: 1%;
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+.wrapper2{
+min-width:1200px;
+}
+
+
+
+
+.top{
+background-color:#000;
+color:#FFF;
+padding: 1% 5%;
+text-align: center;
+position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+}
+
+.top-text{
+float:left;
+}
+
+.top-text ul{
+padding: 1% 37%;
+width: 250%;
+}
+
+.top-text ul li{
+float:left;
+font-weight: 700;
+line-height: 1;
+font-size: 1VW;
+padding: 4%;
+font-family: 'Montserrat', ;
+}
+
+.spa{
+font-size:0.5VW;
+}
+
+.top-text img{
+width: 55%;
+}
+
+.top-text p{
+padding: 15%;
+width: 140%;
+font-size: 0.5%;
+padding-right: 20%;
+}
+
+.top-text i{
+padding-top: 130%;
+padding-left: 2000%;
+font-size: 1.5VW;
+}
+
+
+
+
+.service{
+background-color:#3a3a3a;
+padding: 1% 15%;
+margin-top: 7%;
+display:none;
+}
+
+.service ul{
+margin: 0 ;
+padding: 0 ;
+}
+
+.service ul li{
+float:left;
+text-align:center;
+list-style: none;
+display: inline-block;
+width: 12%;
+min-width: 90px;
+color: #b2b2b2;
+font-size: 1VW;
+}
+
+.service li:not(:last-child){
+border-right:2px solid #ddd;
+}
+
+
+
+
+.life-is-good{
+background-image:url(photo2/top.jpg);
+background-position:center;
+background-size:cover;
+height:270px;
+}
+
+.life-is-good{
+text-align: center;
+    padding-top: 16%;
+    font-size: 1VW;
+    letter-spacing: .01em;
+    font-weight: lighter;
+}
+
+
+
+
+.mein-text{
+color: #666;
+letter-spacing: .05em;
+line-height: 2;
+margin: 33px 0;
+font-size: 1VW;
+padding: 2% 20%;
+}
+
+.mein-text p{
+padding: 2% 0%;
+}
+
+
+
+
+.mein{
+background: #f3f3f3;
+padding: 2% 10%;
+}
+
+.mein-title{
+font-family: 'Montserrat', ;
+text-align: center;
+    padding: 3%;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+}
+
+.mein-title h2{
+font-size: 2.5VW;
+}
+
+.mein-L{
+float: left;
+    width: 50%;
+    padding: 2%;
+text-align: center;
+overflow: hidden;
+}
+
+.mein-L img{
+box-shadow: 10px 10px 15px -10px;
+width: 100%;
+display: block;
+transition-duration: 0.3s;
+}
+
+.mein-L img:hover{
+transform: scale(1.1);
+transition-duration: 0.3s;
+}
+
+.mein-L h2{
+background-color: #FFF;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+    font-size: 2VW;
+}
+
+.ml-sabu{
+font-size: 1VW;
+}
+
+
+
+
+.gaiyou{
+padding: 5% 10%;
+}
+
+.gaiyou h2{
+text-align: center;
+    font-size: 1.2VW;
+    letter-spacing: 0.1em;
+    padding: 2%;
+}
+
+.gaiyou-poti{
+border: solid 1px #000;
+    border-radius: 10px;
+    padding: 2%;
+    text-align: center;
+    margin: 0% 32%;
+}
+
+.G{
+float:left;
+width: 50%;
+text-align: right;
+}
+
+.G h3{
+font-size: 1.2VW;
+    letter-spacing: 0.1em;
+}
+
+.gaiyou-mini{
+float:left;
+    font-size: 1VW;
+    padding-top: 3%;
+    letter-spacing: 0.5em;
+}
+
+
+
+
+.slide{
+background: #333;
+}
+
+
+
+
+
+.LIG{
+background-color:#000;
+color:#FFF;
+padding: 5%;
+}
+
+.LIG-block2{
+float:left;
+padding: 1%;
+}
+
+.LIG-block{
+float:left;
+padding: 1%;
+}
+
+.LIG-block h2{
+color: #464646;
+    font-size: 1.5VW;
+    padding-bottom: 10%;
+}
+
+.LIG-block p{
+padding-bottom: 5%;
+    font-size: 0.5VW;
+    letter-spacing: 0.5em;
+}
+
+.LIG-block2 p{
+padding-bottom: 5%;
+    font-size: 0.5VW;
+    letter-spacing: 0.5em;
+}
+
+.LIG-block2 img{
+width: 50%;
+}
+
+.LIG-aikon{
+float:left;
+padding: 10% 5%;
+    font-size: 2VW;
+}
+
+
+
+
+.inc{
+text-align:center;
+padding:2%;
+font-size:1VW;
+}
+
+
+
+
+
+
+
+
+
+

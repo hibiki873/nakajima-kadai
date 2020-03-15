@@ -1,0 +1,256 @@
+@media(max-width: 590px){
+
+.wrapper2{
+min-width:0px;
+}
+
+.top-text p{
+display: none;
+}
+
+.top-text {
+    float: none;
+}
+
+.top-text img {
+    width: 30%;
+}
+
+.top-text ul {
+display: none;
+}
+
+.top-text ul li{
+display: none;
+}
+
+.top-text i{
+display: none;
+}
+
+.life-is-good  h2{
+    text-align: center;
+    padding-top: 25%;
+    font-size: 1VW;
+    letter-spacing: .01em;
+    font-weight: lighter;
+}
+
+.life-is-good {
+    background-image: url(photo2/top.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 118px;
+}
+
+.mein-L {
+    float: none;
+    width: 100%;
+    padding: 2%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.LIG-block {
+display:none;
+}
+
+.LIG-block2 img {
+    width: 25%;
+}
+
+.LIG-aikon {
+    float: left;
+    padding: 3% 3%;
+    font-size: 4VW;
+}
+
+
+
+
+
+
+
+
+
+
+.top-right {
+    margin-left: 0%;
+}
+
+.mail{
+display:none;
+}
+
+.mail2 {
+    float: left;
+    padding: 2%;
+    margin-top: 0%;
+}
+
+.menu ul li {
+display: none;
+}
+
+.menu img{
+padding-left: 20%;
+    padding-top: 2%;
+    font-size: 4VW;
+}
+
+.mein-page {
+    background-color: #DDD;
+    padding-top: 10%;
+}
+
+.title {
+    padding: 0% 0%;
+}
+
+.news {
+    background-color: #FFF;
+    margin: 1%;
+}
+
+.ookiku {
+    margin: 0% 1%;
+}
+
+.concept-title {
+    float: none;
+    letter-spacing: 1px;
+    font-size: 5VW;
+    margin-right: 53%;
+    padding-bottom: 1%;
+    display: none;
+}
+
+.about-title {
+    float: none;
+    letter-spacing: 1px;
+    font-size: 5VW;
+    padding-bottom: 1%;
+    display: none;
+}
+
+.concept {
+    float: none;
+    background-image: url(photo1/a.png);
+    height: 360px;
+    padding: 0px 0px;
+    text-align: center;
+    margin-right: 70%;
+    color: #FFF;
+    display: none;
+    margin-bottom: 2%;
+}
+
+.concept h3 {
+    font-size: 4.5VW;
+    padding-bottom: 0%;
+    letter-spacing: .1em;
+    font-weight: normal;
+    line-height: 180%;
+    padding: 9%;
+}
+
+.concept p {
+    letter-spacing: .1em;
+    line-height: 180%;
+    padding-bottom: 20px;
+    padding: 0% 10%;
+}
+
+.about-us {
+    float: none;
+    background-image: url(photo1/i.png);
+    background-size: cover;
+    height: 250px;
+    padding: 0px 0px;
+    text-align: center;
+    color: #FFF;
+    display: none;
+    width: 30%;
+}
+
+.about-us h3 {
+    font-size: 4.5VW;
+    padding-bottom: 5%;
+    letter-spacing: .1em;
+    font-weight: normal;
+    line-height: 180%;
+    padding-top: 25%;
+}
+
+.about-us p {
+    letter-spacing: .1em;
+    line-height: 180%;
+    padding-bottom: 0px;
+}
+
+.block1 {
+    float: none;
+    width: 28%;
+    background-color: #FFF;
+    margin: 1%;
+    text-align: center;
+}
+
+.group {
+    padding: 1% 0%;
+    display: none;
+}
+
+.store {
+    margin-top: 0%;
+}
+
+.store img{
+width: 29%;
+    height: 285px;
+}
+
+.footer {
+    margin-top: 8%;
+    background-color: #FFF;
+    padding: 1%;
+}
+
+.footer-L img{
+padding: 0% 18%;
+}
+
+.footer-L ul {
+    margin-top: 5%;
+}
+
+.footer-L ul li {
+    margin-right: 5%;
+    font-weight: bold;
+    float: left;
+}
+
+.footer-R p {
+    font-weight: bold;
+    padding: 0.5%;
+    text-align: center;
+}
+
+.footer-R {
+    float: none;
+    width: auto;
+    font-size: 0.5VW;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
