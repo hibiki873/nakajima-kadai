@@ -1,0 +1,132 @@
+.wrapper{
+min-width:1200px;
+}
+
+.menu{
+background-color: #eaeaea;
+width: 15%;
+position: fixed;
+z-index: 1000;
+top: 0;
+left: 0;
+padding-bottom: 100%;
+}
+
+.menu img{
+width: 100%;
+padding: 30% 10%;
+}
+
+.menu ul{
+padding: 0% 8%;
+display: block;
+text-align: left;
+}
+
+.menu ul li{
+padding: 15% 0%;
+display: block;
+}
+
+
+
+
+.other-than{
+margin-left:15%;
+}
+
+
+
+
+.top{
+background-image:url(photo3/top.jpeg);
+background-size:cover;
+background-position:top;
+height:230px;
+text-align: center;
+}
+
+.top h2{
+text-align: center;
+    font-size: 3VW;
+    padding-top: 7%;
+letter-spacing: 0.05em;
+line-height:1.5;
+color:#FFF;
+}
+
+.top p{
+letter-spacing: 0.05em;
+line-height:1.5;
+color:#FFF;
+}
+
+.under{
+color: #014099;
+    padding: 1%;
+    margin-bottom: 7%;
+}
+
+
+
+
+.cf{
+clear:both;
+}
+
+
+
+
+.mein1-L img{
+width:100%;
+}
+
+.mein1-L{
+float: left;
+width:50%;
+}
+
+.mein1-R{
+float: left;
+width:50%;
+background-color: #014099;
+color:#FFF;
+}
+
+.mein1-R h2{
+font-size: 2VW;
+    padding: 4% 3%;
+margin-top: 5%;
+}
+
+.mein1-R p{
+letter-spacing: 0.05em;
+line-height:1.5;
+padding: 2% 5%;
+    margin-bottom: 18%;
+}
+
+
+
+
+.about{
+width: 100%;
+    display: block;
+    margin-bottom: 38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

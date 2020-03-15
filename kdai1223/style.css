@@ -1,0 +1,25 @@
+.img-right{
+float:left;
+width:50%;
+background-image:url(雪.jpeg);
+background-position:right;
+background-size:cover;
+height:700px;
+}
+
+.mein{
+color:white;
+}
+
+.brock-left{
+float:left;
+width:50%;
+background-color:black;
+color:white;
+height:700px;
+text-align:center;
+}
+
+.cf{
+clear:both;
+                                        |

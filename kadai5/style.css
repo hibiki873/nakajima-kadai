@@ -1,0 +1,501 @@
+.menu{
+position:fixed;
+top:0%;
+width:100%;
+}
+
+.menu-L{
+float:left;
+width:20%;
+padding:1% 2%;
+background-color:#FFF;
+}
+
+.menu-R{
+float:left;
+width:80%;
+padding:1.1% 0%;
+font-size:20px;
+background-color:#0F345B;
+padding-left:13%;
+color:#FFF;
+}
+
+.mr1{
+display:inline-block;
+width:70%;
+vertical-align:middle;
+margin-left:24%;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.mr1 ul li{
+display:inline-block;
+width:16%;
+vertical-align:middle;
+}
+
+.mr2{
+display:inline-block;
+width:5%;
+vertical-align:middle;
+}
+
+.mr2 i{
+font-size:30px;
+}
+
+.cf{
+clear:both;
+}
+
+
+
+
+.top{
+background-image:url(1-photo/top.jpg);
+background-position:center;
+background-size:cover;
+height:600px;
+text-align:center;
+margin-top:50px;
+font-family: 'Merriweather Sans', sans-serif;i
+}
+
+.top img{
+width:16%;
+margin-top:25%;
+}
+
+.top h2{
+font-size:40px;
+color:#FFF;
+}
+
+
+
+
+.semititle{
+color:#0F345B;
+padding:2% 4%;
+background-color:#DBDCDC;
+}
+
+.semititle h2{
+font-size:28px;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.S-sabu{
+font-size:18px;
+padding:0% 1%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+
+.photo{
+width:100%;
+}
+
+
+
+
+.mein{
+padding:5% 10%;
+}
+
+.mein-T{
+text-align:center;
+color:#C9391C;
+font-size:25px;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.M-sabu{
+font-size:20px;
+}
+
+.mein-T p{
+font-size:19px;
+font-family: 'Barlow Condensed', sans-serif;
+padding:1% 0%;
+}
+
+
+
+.MB{
+padding:3% 10%;
+}
+
+.mein-block{
+padding:4% 0%;
+background-color:#DBDCDC;
+text-align:center;
+margin-bottom:3%;
+}
+
+.mein-block ul{
+text-align:left;
+margin-left:23%;
+color:#595757;
+}
+
+.mein-block i{
+font-size:42px;
+padding:2%;
+}
+
+.mein-block h2{
+font-size:23px;
+padding:2%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.mein-block p{
+color:#595757;
+font-size:15px;
+padding:1%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.mein-block2{
+padding:4% 3%;
+background-color:#A39DAF;
+text-align:center;
+margin-bottom:3%;
+color:#FFF;
+}
+
+.mein-block2 h2{
+font-size:23px;
+padding:1% 2%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.MB2-L{
+float:left;
+width:49%;
+background-color:#FFF;
+margin-right:1%;
+}
+
+.MB2-R{
+float:left;
+width:49%;
+background-color:#FFF;
+margin-left:1%;
+}
+
+.MB2-L i{
+float:left;
+width:50%;
+font-size:25px;
+text-align:right;
+color:#A39DAF;
+padding:2% 0%;
+}
+
+.MB2-L h2{
+float:left;
+width:50%;
+text-align:left;
+color:#A39DAF;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.MB2-L p{
+font-size:10px;
+padding:6% 0%;
+margin-top:8%;
+color:#A39DAF;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.MB2-R i{
+float:left;
+width:50%;
+font-size:25px;
+text-align:right;
+color:#A39DAF;
+}
+
+.MB2-R h2{
+float:left;
+width:50%;
+text-align:left;
+color:#A39DAF;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.MB2-R p{
+font-size:10px;
+padding:6% 0%;
+margin-top:8%;
+color:#A39DAF;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+
+
+.MB3-L{
+float:left;
+width:49%;
+background-color:#FFF;
+margin-right:1%;
+}
+
+.MB3-R{
+float:left;
+width:49%;
+background-color:#FFF;
+margin-left:1%;
+}
+
+.MB3-L i{
+float:left;
+width:25%;
+font-size:25px;
+text-align:right;
+color:#A39DAF;
+margin-top:2%;
+}
+
+.MB3-L h2{
+float:left;
+width:75%;
+text-align:left;
+color:#A39DAF;
+margin-top:2%;
+}
+
+.MB3-L p{
+font-size:10px;
+padding:6% 0%;
+margin-top:8%;
+color:#A39DAF;
+}
+
+.MB3-R i{
+float:left;
+width:25%;
+font-size:25px;
+text-align:right;
+color:#A39DAF;
+margin-top:2%;
+}
+
+.MB3-R h2{
+float:left;
+width:75%;
+text-align:left;
+color:#A39DAF;
+margin-top:2%;
+}
+
+.MB3-R p{
+font-size:10px;
+padding:6% 0%;
+margin-top:8%;
+color:#A39DAF;
+}
+
+
+
+
+.semititle2{
+color:#FFF;
+padding:2% 4%;
+background-color:#A0A0A0;
+}
+
+.semititle2 h2{
+font-size:20px;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+
+
+
+.infomation{
+background-color:#EFEFEF;
+font-size:13px;
+padding-left:20%;
+}
+
+.I-block{
+padding:2%;
+}
+
+.I-block p{
+padding:1%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+
+.semititle3{
+color:#FFF;
+padding:2% 4%;
+background-color:#0F345B;
+}
+
+.semititle3 h2{
+font-size:20px;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+
+
+
+.profile{
+background-image:url(1-photo/wa-.jpeg);
+background-position:center;
+background-size:cover;
+height:1750px;
+color:#FFF;
+font-size:13px;
+}
+
+.P-L1{
+float:left;
+width:20%;
+padding:2%;
+margin-left:20%;
+}
+
+.P-R1{
+float:left;
+width:60%;
+padding:2%;
+}
+
+.P-L1 p{
+padding:11%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.P-R1 p{
+padding:3%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+ 
+
+
+.tokyo{
+background-color:#DBDCDC;
+color:#FFF;
+padding:1% 22%;
+}
+
+.tokyo1{
+padding:1%;
+font-size:19px;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.tokyo2 p{
+padding:0.5% 0%;
+font-size:13px;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.tokyo3{
+color:#DBDCDC;
+background-color:#FFF;
+text-align:right;
+font-size:13px;
+margin-right:90%;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+
+
+.map{
+width:100%;
+margin:0 auto;
+position:relative;
+padding-top:27.25%;
+}
+
+.map iframe{
+position:absolute;
+top:0;
+left:0;
+width:100% !important;
+height:100% !important;
+}
+
+
+  
+
+.form{
+background-color:#DBDCDC;
+padding:2% 23%;
+}
+
+.form-T{
+font-size:28px;
+padding:2% 0%;
+margin-top:5%;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.form-sabu{
+font-size:17px;
+padding:3%;
+}
+
+.form-T2 p{
+font-size:17px;
+padding:1% 0%;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.form-T2 input{
+width:500px;
+height:65px;
+}
+
+.form-T2 textarea{
+width:500px;
+height:200px;
+}
+
+
+
+
+.attention{
+padding:3% 0%;
+}
+
+.attention p{
+color:#595757;
+padding:1% 0%;
+font-size:12px;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.attention2 p{
+padding:3% 0%;
+color:#595757;
+font-size:10px;
+margin-bottom:15%;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+ 
+
+
+
+
+
+
+
+
+

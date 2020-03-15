@@ -1,0 +1,377 @@
+.wrapper{
+min-width:1200px;
+}
+
+.menu{
+background-color: #eaeaea;
+width: 15%;
+position: fixed;
+z-index: 1000;
+top: 0;
+left: 0;
+padding-bottom: 100%;
+}
+
+.menu img{
+width: 100%;
+padding: 30% 10%;
+}
+
+.menu ul{
+padding: 0% 8%;
+display: block;
+text-align: left;
+}
+
+.menu ul li{
+padding: 15% 0%;
+display: block;
+}
+
+
+
+
+.other-than{
+margin-left:15%;
+}
+
+.top{
+background-image:url(photo1/top.jpg);
+background-size:cover;
+background-position:center;
+height:800px;
+text-align: center;
+}
+
+.top h2{
+padding-top: 25%;
+font-size: 45px;
+color: #FFF;
+}
+
+.top p{
+font-size: 20px;
+padding: 2%;
+color: #FFF;
+}
+
+
+
+
+.cf{
+clear:both;
+}
+
+.message-L{
+float:left;
+width:50%;
+}
+
+.message-L img{
+width: 100%;
+}
+
+.message-R{
+float:left;
+width:50%;
+padding:7.32% 2%;
+background-color: #014099;
+color: #FFF;
+}
+
+.message-R h2{
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+letter-spacing: 0.1em;
+ position: relative;
+}
+
+.message-R h2:before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -10px;
+  display: inline-block;
+  width: 50px;
+  height: 2px;
+  -moz-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translate(-50%);
+}
+
+.MR1{
+padding: 2% 0%;
+}
+
+.message-R p{
+letter-spacing: 0.05em;
+line-height:1.5;
+}
+
+.MR2{
+text-align:right;
+padding:2% 0%;
+}
+
+
+
+
+.about{
+padding-top:3%;
+padding:0% 3%;
+margin-top: 10%;
+background-color:#FFF;
+}
+
+.about-L{
+float:left;
+width:25%;
+background-color:#014099;
+color:#FFF;
+}
+.about-L h2{
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+letter-spacing: 0.1em;
+padding: 6%;
+margin-top: 60%;
+text-align: center;
+}
+
+.about-L p{
+padding: 0% 20%;
+margin-bottom: 52.3%;
+}
+
+.about-R{
+float:left;
+width:75%;
+}
+
+.about-R img{
+width:100%;
+}
+
+
+
+
+.about2{
+padding: 7% 10%;
+}
+
+.about2 p{
+letter-spacing: 0.05em;
+line-height:1.5;
+color:#222;
+}
+
+.about5{
+background-color:#014099;
+padding: 2%;
+margin: 3%;
+margin-left: 35%;
+margin-right: 35%;
+padding-left: 10%;
+color:#FFF;
+}
+
+.about3{
+float:left;
+}
+
+.about3 h2{
+font-family: 'Roboto', sans-serif;
+letter-spacing: 0.1em;
+text-align: center;
+}
+
+.about4{
+float:left;
+margin-left: 38%;
+}
+
+
+
+
+.interview{
+background-color: #FFF;
+}
+
+.I-text{
+text-align: center;
+padding-top: 9%;
+color: #014099;
+font-family: 'Roboto', sans-serif;
+}
+
+.I-text h2{
+font-size: 50px;
+letter-spacing: 0.1em;
+padding: 2%;
+}
+
+.I-text p{
+font-size: 20px;
+}
+
+
+
+
+.ossan{
+padding: 5%;
+}
+
+.ossan1{
+float: left;
+width: 50%;
+padding: 2%;
+}
+
+.ossan1 img{
+width:100%;
+}
+
+.ossan1 p{
+color: #014099;
+font-weight: 700;
+line-height: 1.5;
+text-align: left;
+font-size: 14px;
+margin-bottom: 5px;
+}
+
+.ossan1 h2{
+padding: 1% 0%;
+}
+
+.ossan1 h3{
+background-color: #014099;
+color: #FFF;
+text-align: center;
+padding: 3%;
+margin: 20%;
+}
+
+
+
+
+.I-text2 p{
+letter-spacing: 0.05em;
+line-height: 1.5;
+color: #222;
+padding: 2% 12%;
+}
+
+
+
+
+.last{
+background-color: #bababa;
+padding: 2%;
+}
+
+.last img{
+width: 20%;
+padding: 2%;
+}
+
+.last-T{
+float:left;
+width:33%;
+}
+
+.T-1{
+padding: 1% 3%;
+font-size: 12px;
+letter-spacing: 0.05em;
+line-height: 1.5;
+}
+
+.T-2 ul li{
+float:left;
+padding: 3%;
+font-size: 12px;
+}
+
+
+
+
+
+.top h2{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.top p{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.message-L{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.message-R p{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.about-L h2{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.about-L p{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.about2{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.about5{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.I-text{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.ossan{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+.I-text p{  
+  opacity : 0;
+  transform: translateY(20px);
+  transition: all 1s;
+}
+
+
+
+
+
+.slide img{
+width:100%;
+}
+
+
+
+
